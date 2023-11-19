@@ -13,11 +13,8 @@
    <a href="https://www.linkedin.com/in/vitalii-panchuk-59982b10b/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-   <a href="@vitalii_p">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:panch.vit@gmail.com'>panch.vit@gmail.com</a>
+   📫 How to reach me: <a href='mailto:panch.vit@gmail.com'>panch.vit@gmail.com, @vitalii_p</a>
 </p>
 
 

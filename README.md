@@ -14,7 +14,7 @@
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:panch.vit@gmail.com'>panch.vit@gmail.com, @vitalii_p</a>
+   📫 How to reach me: telegram: @vitalii_p,  <a href='mailto:panch.vit@gmail.com'>panch.vit@gmail.com</a>
 </p>
 
 
